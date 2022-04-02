@@ -1,2 +1,2 @@
-FROM subahanherekar02/jenkins-wb
+FROM subahanherekar/webapp
 ADD . /var/www/html
