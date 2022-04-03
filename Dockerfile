@@ -1,2 +1,4 @@
 FROM subahanherekar/webapp
-ADD . /var/www/html
+COPY . /usr/share/nginx/html
+
+
